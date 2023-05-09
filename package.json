@@ -1,0 +1,19 @@
+{
+  "name": "web_crawler_http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon main.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "walber melo",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
