@@ -11,6 +11,7 @@
   "author": "walber melo",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.4.0",
     "jsdom": "^22.0.0",
     "nodemon": "^2.0.22"
   },
